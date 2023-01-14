@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Bohdan Voitovych"
+echo "Hello from Bohdan Voitovych"
